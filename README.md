@@ -1,6 +1,7 @@
 # assignment-2
 
 JavaScript Methods Assignment
+
 Goal:
 This project aims to enhance your understanding of JavaScript syntax, functions, higher-order functions, and JavaScript and Array methods by rebuilding some of the most widely used JavaScript methods.
 
