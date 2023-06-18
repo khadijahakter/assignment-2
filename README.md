@@ -3,7 +3,7 @@
 JavaScript Methods Assignment
 
 Goal:
-This project aims to enhance your understanding of JavaScript syntax, functions, higher-order functions, and JavaScript and Array methods by rebuilding some of the most widely used JavaScript methods.
+To enhance understanding of JavaScript syntax, functions, higher-order functions, and JavaScript and Array methods by rebuilding some of the most widely used JavaScript methods.
 
 Assignment:
 Recreate the following twelve (12) widely used methods in functional programming languages:
